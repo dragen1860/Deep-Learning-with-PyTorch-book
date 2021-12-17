@@ -4,7 +4,7 @@
 基于PyTorch 1.x版！！！ 理论与实战结合，非常适合入门学习！！！
 
 
-PDF下载：https://github.com/dragen1860/Deep-Learning-with-PyTorch-book/blob/master/%E3%80%90PyTorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E9%BE%99%E9%BE%99%E8%80%81%E5%B8%88%E3%80%91-%E6%B5%8B%E8%AF%95%E7%89%88202112.pdf 
+PDF下载: 👆👆👆👆
 
 
 
