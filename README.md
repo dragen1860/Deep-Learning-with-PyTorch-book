@@ -1,1 +1,8 @@
-# Deep-Learning-with-PyTorch-book
+# PyTorch深度学习 开源电子书
+
+
+
+![微信图片_20200707231347 - Copy](https://user-images.githubusercontent.com/4252555/146542031-5adae8e1-42d0-495f-890e-97e1754b4c83.jpg)
+
+
+![image](https://user-images.githubusercontent.com/4252555/146542135-b8e971c2-87dd-4226-a48f-ce5d20163fca.png)
