@@ -7,7 +7,7 @@
 PDF下载: 👆👆👆👆  全书共430页，包含15章节。
 
 
-很多同学Github不太会用，**直接下载整个Github仓库，而不是点pdf文件去下载单个pdf文件**，Github是国外网站，国内支持不太好！
+很多同学Github不太会用，**直接Code->Download ZIP下载整个Github仓库，而不是点pdf文件去下载单个pdf文件**，Github是国外网站，国内支持不太好！
 
 
 **News**:
